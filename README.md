@@ -17,7 +17,6 @@ This project focuses on analyzing and visualizing the mental health status, job 
 
 ## 📷 Dashboard Preview
 ![Dashboard Preview](Screenshot 2026-05-25 at 10.23.19 PM.jpg)
-*(Note: Ensure your image file name matches the one uploaded to this repository)*
 
 ## 💡 Key Recommendations
 1. **Load Balancing:** Redesign shift allocations to mitigate the impact of heavy workloads on Critical Care Nurses and Administrators who show the lowest satisfaction scores.
