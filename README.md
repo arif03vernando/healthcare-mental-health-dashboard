@@ -16,7 +16,7 @@ This project focuses on analyzing and visualizing the mental health status, job 
 * **Core Logic:** Data Segmentation by Employee Type and Department
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Screenshot 2026-05-25 at 10.23.19 PM.jpg)
+![Dashboard Preview](dashboard-healthcare.jpg)
 
 ## 💡 Key Recommendations
 1. **Load Balancing:** Redesign shift allocations to mitigate the impact of heavy workloads on Critical Care Nurses and Administrators who show the lowest satisfaction scores.
